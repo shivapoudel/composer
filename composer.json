@@ -1,13 +1,20 @@
 {
-	"name": "shivapoudel/composer",
-	"homepage": "https://composer.shiva-poudel.com.np",
-	"config": {
-		"sort-packages": true,
-		"allow-plugins": {
-			"composer/satis": true
-		}
-	},
-	"require": {
-		"composer/satis": "dev-main"
-	}
+    "name": "shivapoudel/composer",
+    "description": "Eachperson Composer repository generator",
+    "homepage": "https://composer.shiva-poudel.com.np",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "composer/satis": true
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "composer/satis": "dev-main"
+    }
 }

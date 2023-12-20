@@ -32,7 +32,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          composer install --no-dev --prefer-dist
+          composer install --prefer-dist
 
       - name: Build app
         run: |

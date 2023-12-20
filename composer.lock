@@ -4,8 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cfe9a6a799fa06bc69bf3dc4442535d5",
-    "packages": [
+    "content-hash": "9fadc70dc4a31a0288224320b2e10dbd",
+    "packages": [],
+    "packages-dev": [
         {
             "name": "composer/ca-bundle",
             "version": "1.4.0",
@@ -2305,15 +2306,16 @@
             "time": "2023-11-21T18:54:41+00:00"
         }
     ],
-    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
         "composer/satis": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^8.1"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
 }
