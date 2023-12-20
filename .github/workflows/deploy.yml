@@ -44,6 +44,6 @@ jobs:
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-            fqdn: composer.shiva-poudel.com.np
+            fqdn: ${{ secrets.CUSTOM_DOMAIN }}
             target_branch: gh-pages
             build_dir: public
