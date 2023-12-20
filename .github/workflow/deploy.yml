@@ -1,0 +1,37 @@
+name: GitHub Pages deploy
+
+on:
+  push:
+    branches:
+      - main # Change this to your main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+		  tools: composer:v2
+
+      - name: Install dependencies
+        run: |
+          composer install --no-dev --prefer-dist
+
+      - name: Build app
+        run: |
+          ./vendor/bin/satis build satis.json
+
+      - name: Deploy to GitHub Pages
+		if: success()
+		uses: crazy-max/ghaction-github-pages@v2
+		env:
+			GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+		with:
+			target_branch: gh-pages
+			build_dir: public
