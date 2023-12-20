@@ -1,0 +1,13 @@
+{
+  "name": "iat/composer.eachperson.com",
+  "homepage": "https://composer.eachperson.com",
+  "config": {
+    "sort-packages": true,
+    "allow-plugins": {
+      "composer/satis": true
+    }
+  },
+  "require": {
+    "composer/satis": "dev-main"
+  }
+}
