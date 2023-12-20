@@ -1,6 +1,6 @@
 {
-    "name": "shivapoudel/composer",
-    "description": "Eachperson Composer repository generator",
+    "name": "iat/composer",
+    "description": "Eachperson private Composer repository",
     "homepage": "https://composer.shiva-poudel.com.np",
     "type": "project",
     "license": "GPL-3.0-or-later",

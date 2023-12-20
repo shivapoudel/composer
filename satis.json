@@ -1,8 +1,7 @@
 {
-  "name": "iat/eachperson",
-  "description": "Eachperson Composer repository",
+  "name": "eachperson",
+  "description": "Eachperson private Composer repository",
   "homepage": "https://composer.shiva-poudel.com.np/",
-  "output-dir": "public",
   "repositories": [
     {
       "type": "package",
@@ -213,5 +212,6 @@
     "directory": "dist",
     "skip-dev": false
   },
+  "output-dir": "public",
   "require-all": true
 }
