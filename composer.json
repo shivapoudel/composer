@@ -1,5 +1,5 @@
 {
-	"name": "iat/composer",
+	"name": "shivapoudel/composer",
 	"homepage": "https://composer.shiva-poudel.com.np",
 	"config": {
 		"sort-packages": true,
