@@ -92,6 +92,9 @@
                 "dist": {
                     "url": "https://d29oict0egpw8n.cloudfront.net/plugins/dokan-pro/dokan-business-3.9.6.zip",
                     "type": "zip"
+                },
+                "require": {
+                    "wpackagist-plugin/dokan-lite": "^3.9"
                 }
             }
         },
