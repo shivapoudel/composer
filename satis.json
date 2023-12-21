@@ -105,7 +105,7 @@
                 "version": "3.18.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.1.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/elementor-pro/elementor-pro-3.18.1.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -120,7 +120,7 @@
                 "version": "3.18.2",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.2.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/elementor-pro/elementor-pro-3.18.2.zip",
                     "type": "zip"
                 },
                 "require": {
