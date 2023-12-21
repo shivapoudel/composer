@@ -6,6 +6,26 @@
         {
             "type": "package",
             "package": {
+                "name": "wordpress/wordpress",
+                "type": "wordpress-core",
+                "version": "6.4.2",
+                "dist": {
+                    "url": "http://wordpress.org/wordpress-6.4.2.zip",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "https://github.com/WordPress/WordPress",
+                    "type": "git",
+                    "reference": "6.4.2"
+                },
+                "require": {
+                    "johnpbloch/wordpress-core-installer": "~0.1"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "thembay-theme/besa",
                 "version": "2.2.19",
                 "type": "wordpress-theme",
@@ -78,12 +98,20 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/elementor-pro",
+                "name": "elementor/elementor-pro",
                 "version": "3.18.1",
                 "type": "wordpress-plugin",
                 "dist": {
                     "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.1.zip",
                     "type": "zip"
+                },
+                "source": {
+                    "url": "https://github.com/elementor/elementor",
+                    "type": "git",
+                    "reference": "3.18.1"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
                 }
             }
         },
