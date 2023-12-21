@@ -10,7 +10,7 @@
                 "type": "wordpress-core",
                 "version": "6.4.2",
                 "dist": {
-                    "url": "http://wordpress.org/wordpress-6.4.2.zip",
+                    "url": "https://wordpress.org/wordpress-6.4.2.zip",
                     "type": "zip"
                 },
                 "source": {
