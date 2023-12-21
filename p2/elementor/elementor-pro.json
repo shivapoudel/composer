@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "elementor/elementor-pro": [
+            {
+                "name": "elementor/elementor-pro",
+                "version": "3.18.1",
+                "version_normalized": "3.18.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/elementor/elementor-pro/elementor-elementor-pro-3.18.1.zip",
+                    "shasum": "e14a280e7a33dad5efa4a2ed1496f0961361eb64"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            },
+            {
+                "name": "elementor/elementor-pro",
+                "version": "3.18.2",
+                "version_normalized": "3.18.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/elementor/elementor-pro/elementor-elementor-pro-3.18.2.zip",
+                    "shasum": "32ba373c186d48e520592df23cc7d88edbeb69e1"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "envato/envato-market": [
+            {
+                "name": "envato/envato-market",
+                "version": "2.0.11",
+                "version_normalized": "2.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/envato/envato-market/envato-envato-market-2.0.11.zip",
+                    "shasum": "79ea257dbf4ba549a80c540ed0f2b53386675390"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

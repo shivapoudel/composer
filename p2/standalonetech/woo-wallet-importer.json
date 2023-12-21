@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "standalonetech/woo-wallet-importer": [
+            {
+                "name": "standalonetech/woo-wallet-importer",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/standalonetech/woo-wallet-importer/standalonetech-woo-wallet-importer-1.1.1.zip",
+                    "shasum": "07d7dfbea2cf4eba55d9f765d61d03e62507dea4"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

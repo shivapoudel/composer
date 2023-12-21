@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "woocommerce/woocommerce-subscriptions": [
+            {
+                "name": "woocommerce/woocommerce-subscriptions",
+                "version": "5.5.0",
+                "version_normalized": "5.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/woocommerce/woocommerce-subscriptions/woocommerce-woocommerce-subscriptions-5.5.0.zip",
+                    "shasum": "80e88e7fae03313c7c49bb7b0a0005620734a223"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

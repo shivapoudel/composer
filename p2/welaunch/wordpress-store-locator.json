@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "welaunch/wordpress-store-locator": [
+            {
+                "name": "welaunch/wordpress-store-locator",
+                "version": "2.1.12",
+                "version_normalized": "2.1.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/welaunch/wordpress-store-locator/welaunch-wordpress-store-locator-2.1.12.zip",
+                    "shasum": "1f1462ecff0564fb5ab471d419f74821e0041f2e"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

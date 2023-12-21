@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "getwooplugins/woo-variation-swatches-pro": [
+            {
+                "name": "getwooplugins/woo-variation-swatches-pro",
+                "version": "2.0.29",
+                "version_normalized": "2.0.29.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/getwooplugins/woo-variation-swatches-pro/getwooplugins-woo-variation-swatches-pro-2.0.29.zip",
+                    "shasum": "5f3e5938a61688ea0cc53b95a3bdd430af793a00"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

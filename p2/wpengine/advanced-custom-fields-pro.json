@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "wpengine/advanced-custom-fields-pro": [
+            {
+                "name": "wpengine/advanced-custom-fields-pro",
+                "version": "6.2.4",
+                "version_normalized": "6.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpengine/advanced-custom-fields-pro/wpengine-advanced-custom-fields-pro-6.2.4.zip",
+                    "shasum": "d3698e987b38ddde072d5e5598ade8ef99690d76"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

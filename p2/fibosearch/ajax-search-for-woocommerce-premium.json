@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "fibosearch/ajax-search-for-woocommerce-premium": [
+            {
+                "name": "fibosearch/ajax-search-for-woocommerce-premium",
+                "version": "1.26.1",
+                "version_normalized": "1.26.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/fibosearch/ajax-search-for-woocommerce-premium/fibosearch-ajax-search-for-woocommerce-premium-1.26.1.zip",
+                    "shasum": "116453c4a7e45df945d4b001307bdabd3e95ab88"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

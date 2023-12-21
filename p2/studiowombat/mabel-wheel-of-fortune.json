@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "studiowombat/mabel-wheel-of-fortune": [
+            {
+                "name": "studiowombat/mabel-wheel-of-fortune",
+                "version": "4.0.8",
+                "version_normalized": "4.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/studiowombat/mabel-wheel-of-fortune/studiowombat-mabel-wheel-of-fortune-4.0.8.zip",
+                    "shasum": "2ef8f5a3c91fac56bbf2df9e44031966990c2341"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

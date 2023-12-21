@@ -1,0 +1,286 @@
+{
+    "packages": {
+        "elementor/elementor-pro": {
+            "3.18.1": {
+                "name": "elementor/elementor-pro",
+                "version": "3.18.1",
+                "version_normalized": "3.18.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/elementor/elementor-pro/elementor-elementor-pro-3.18.1.zip",
+                    "shasum": "e14a280e7a33dad5efa4a2ed1496f0961361eb64"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            },
+            "3.18.2": {
+                "name": "elementor/elementor-pro",
+                "version": "3.18.2",
+                "version_normalized": "3.18.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/elementor/elementor-pro/elementor-elementor-pro-3.18.2.zip",
+                    "shasum": "32ba373c186d48e520592df23cc7d88edbeb69e1"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "envato/envato-market": {
+            "2.0.11": {
+                "name": "envato/envato-market",
+                "version": "2.0.11",
+                "version_normalized": "2.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/envato/envato-market/envato-envato-market-2.0.11.zip",
+                    "shasum": "79ea257dbf4ba549a80c540ed0f2b53386675390"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "fibosearch/ajax-search-for-woocommerce-premium": {
+            "1.26.1": {
+                "name": "fibosearch/ajax-search-for-woocommerce-premium",
+                "version": "1.26.1",
+                "version_normalized": "1.26.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/fibosearch/ajax-search-for-woocommerce-premium/fibosearch-ajax-search-for-woocommerce-premium-1.26.1.zip",
+                    "shasum": "116453c4a7e45df945d4b001307bdabd3e95ab88"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "getwooplugins/woo-variation-swatches-pro": {
+            "2.0.29": {
+                "name": "getwooplugins/woo-variation-swatches-pro",
+                "version": "2.0.29",
+                "version_normalized": "2.0.29.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/getwooplugins/woo-variation-swatches-pro/getwooplugins-woo-variation-swatches-pro-2.0.29.zip",
+                    "shasum": "5f3e5938a61688ea0cc53b95a3bdd430af793a00"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "standalonetech/woo-wallet-importer": {
+            "1.1.1": {
+                "name": "standalonetech/woo-wallet-importer",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/standalonetech/woo-wallet-importer/standalonetech-woo-wallet-importer-1.1.1.zip",
+                    "shasum": "07d7dfbea2cf4eba55d9f765d61d03e62507dea4"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "studiowombat/mabel-wheel-of-fortune": {
+            "4.0.8": {
+                "name": "studiowombat/mabel-wheel-of-fortune",
+                "version": "4.0.8",
+                "version_normalized": "4.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/studiowombat/mabel-wheel-of-fortune/studiowombat-mabel-wheel-of-fortune-4.0.8.zip",
+                    "shasum": "2ef8f5a3c91fac56bbf2df9e44031966990c2341"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "thembay/besa": {
+            "2.2.19": {
+                "name": "thembay/besa",
+                "version": "2.2.19",
+                "version_normalized": "2.2.19.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/thembay/besa/thembay-besa-2.2.19.zip",
+                    "shasum": "44d6edf97124efb0de70c96f18e77f4bfe2a472f"
+                },
+                "type": "wordpress-theme",
+                "installation-source": "dist"
+            }
+        },
+        "thembay/tbay-elementor": {
+            "1.1.11": {
+                "name": "thembay/tbay-elementor",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/thembay/tbay-elementor/thembay-tbay-elementor-1.1.11.zip",
+                    "shasum": "e058fa54d788a8b296c1a6695528d7c14be47657"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "wedevs/dokan-pro": {
+            "3.9.6": {
+                "name": "wedevs/dokan-pro",
+                "version": "3.9.6",
+                "version_normalized": "3.9.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wedevs/dokan-pro/wedevs-dokan-pro-3.9.6.zip",
+                    "shasum": "2a31634e81b82306c81f4013920459d5f3a5d98d"
+                },
+                "require": {
+                    "wpackagist-plugin/dokan-lite": "^3.9"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "welaunch/wordpress-store-locator": {
+            "2.1.12": {
+                "name": "welaunch/wordpress-store-locator",
+                "version": "2.1.12",
+                "version_normalized": "2.1.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/welaunch/wordpress-store-locator/welaunch-wordpress-store-locator-2.1.12.zip",
+                    "shasum": "1f1462ecff0564fb5ab471d419f74821e0041f2e"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "woocommerce/woocommerce-product-filters": {
+            "1.4.12": {
+                "name": "woocommerce/woocommerce-product-filters",
+                "version": "1.4.12",
+                "version_normalized": "1.4.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/woocommerce/woocommerce-product-filters/woocommerce-woocommerce-product-filters-1.4.12.zip",
+                    "shasum": "929d2418b4815c5bfa83da4dc96f11871ea9c318"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "woocommerce/woocommerce-referral-system": {
+            "1.3.10.2": {
+                "name": "woocommerce/woocommerce-referral-system",
+                "version": "1.3.10.2",
+                "version_normalized": "1.3.10.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/woocommerce/woocommerce-referral-system/woocommerce-woocommerce-referral-system-1.3.10.2.zip",
+                    "shasum": "6008f80cf20163084b2322b77e8c94b020909f94"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "woocommerce/woocommerce-subscriptions": {
+            "5.5.0": {
+                "name": "woocommerce/woocommerce-subscriptions",
+                "version": "5.5.0",
+                "version_normalized": "5.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/woocommerce/woocommerce-subscriptions/woocommerce-woocommerce-subscriptions-5.5.0.zip",
+                    "shasum": "80e88e7fae03313c7c49bb7b0a0005620734a223"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "wordpress/wordpress": {
+            "6.4.2": {
+                "name": "wordpress/wordpress",
+                "version": "6.4.2",
+                "version_normalized": "6.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/WordPress/WordPress",
+                    "reference": "6.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wordpress/wordpress/wordpress-wordpress-6.4.2-f6f8ec.zip",
+                    "reference": "6.4.2",
+                    "shasum": "3ce8dc0f5c015925ba0a9c1244a20a3dd0ed67cf"
+                },
+                "require": {
+                    "johnpbloch/wordpress-core-installer": "~0.1"
+                },
+                "type": "wordpress-core",
+                "installation-source": "dist"
+            }
+        },
+        "wpallimport/wp-all-import-pro": {
+            "4.8.5": {
+                "name": "wpallimport/wp-all-import-pro",
+                "version": "4.8.5",
+                "version_normalized": "4.8.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpallimport/wp-all-import-pro/wpallimport-wp-all-import-pro-4.8.5.zip",
+                    "shasum": "087ad6b9cb43164fe04e406e55f1442706eba96c"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "wpallimport/wpai-woocommerce-add-on": {
+            "4.0.0": {
+                "name": "wpallimport/wpai-woocommerce-add-on",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpallimport/wpai-woocommerce-add-on/wpallimport-wpai-woocommerce-add-on-4.0.0.zip",
+                    "shasum": "ce45fbff96164029ef75738a5615e8eafc0a18ae"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "wpengine/advanced-custom-fields-pro": {
+            "6.2.4": {
+                "name": "wpengine/advanced-custom-fields-pro",
+                "version": "6.2.4",
+                "version_normalized": "6.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpengine/advanced-custom-fields-pro/wpengine-advanced-custom-fields-pro-6.2.4.zip",
+                    "shasum": "d3698e987b38ddde072d5e5598ade8ef99690d76"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        },
+        "wpfactory/maximum-products-per-user-for-woocommerce-pro": {
+            "3.7.5": {
+                "name": "wpfactory/maximum-products-per-user-for-woocommerce-pro",
+                "version": "3.7.5",
+                "version_normalized": "3.7.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpfactory/maximum-products-per-user-for-woocommerce-pro/wpfactory-maximum-products-per-user-for-woocommerce-pro-3.7.5.zip",
+                    "shasum": "d1e1525b5ab00dbc4119c0da028dcdba0a668b26"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        }
+    }
+}

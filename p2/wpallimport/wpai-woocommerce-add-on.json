@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "wpallimport/wpai-woocommerce-add-on": [
+            {
+                "name": "wpallimport/wpai-woocommerce-add-on",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpallimport/wpai-woocommerce-add-on/wpallimport-wpai-woocommerce-add-on-4.0.0.zip",
+                    "shasum": "ce45fbff96164029ef75738a5615e8eafc0a18ae"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

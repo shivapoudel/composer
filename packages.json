@@ -1,0 +1,29 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$1e41115e0cf878773634aefbedd6ff737eacee0a.json": {
+            "sha1": "1e41115e0cf878773634aefbedd6ff737eacee0a"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "elementor/elementor-pro",
+        "envato/envato-market",
+        "fibosearch/ajax-search-for-woocommerce-premium",
+        "getwooplugins/woo-variation-swatches-pro",
+        "standalonetech/woo-wallet-importer",
+        "studiowombat/mabel-wheel-of-fortune",
+        "thembay/besa",
+        "thembay/tbay-elementor",
+        "wedevs/dokan-pro",
+        "welaunch/wordpress-store-locator",
+        "woocommerce/woocommerce-product-filters",
+        "woocommerce/woocommerce-referral-system",
+        "woocommerce/woocommerce-subscriptions",
+        "wordpress/wordpress",
+        "wpallimport/wp-all-import-pro",
+        "wpallimport/wpai-woocommerce-add-on",
+        "wpengine/advanced-custom-fields-pro",
+        "wpfactory/maximum-products-per-user-for-woocommerce-pro"
+    ]
+}

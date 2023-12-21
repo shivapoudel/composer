@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wordpress/wordpress": [
+            {
+                "name": "wordpress/wordpress",
+                "version": "6.4.2",
+                "version_normalized": "6.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/WordPress/WordPress",
+                    "reference": "6.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wordpress/wordpress/wordpress-wordpress-6.4.2-f6f8ec.zip",
+                    "reference": "6.4.2",
+                    "shasum": "3ce8dc0f5c015925ba0a9c1244a20a3dd0ed67cf"
+                },
+                "require": {
+                    "johnpbloch/wordpress-core-installer": "~0.1"
+                },
+                "type": "wordpress-core",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

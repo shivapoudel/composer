@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "thembay/besa": [
+            {
+                "name": "thembay/besa",
+                "version": "2.2.19",
+                "version_normalized": "2.2.19.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/thembay/besa/thembay-besa-2.2.19.zip",
+                    "shasum": "44d6edf97124efb0de70c96f18e77f4bfe2a472f"
+                },
+                "type": "wordpress-theme",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

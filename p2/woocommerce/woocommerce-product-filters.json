@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "woocommerce/woocommerce-product-filters": [
+            {
+                "name": "woocommerce/woocommerce-product-filters",
+                "version": "1.4.12",
+                "version_normalized": "1.4.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/woocommerce/woocommerce-product-filters/woocommerce-woocommerce-product-filters-1.4.12.zip",
+                    "shasum": "929d2418b4815c5bfa83da4dc96f11871ea9c318"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

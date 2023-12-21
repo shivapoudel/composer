@@ -1,0 +1,21 @@
+{
+    "packages": {
+        "wedevs/dokan-pro": [
+            {
+                "name": "wedevs/dokan-pro",
+                "version": "3.9.6",
+                "version_normalized": "3.9.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wedevs/dokan-pro/wedevs-dokan-pro-3.9.6.zip",
+                    "shasum": "2a31634e81b82306c81f4013920459d5f3a5d98d"
+                },
+                "require": {
+                    "wpackagist-plugin/dokan-lite": "^3.9"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

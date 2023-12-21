@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "wpfactory/maximum-products-per-user-for-woocommerce-pro": [
+            {
+                "name": "wpfactory/maximum-products-per-user-for-woocommerce-pro",
+                "version": "3.7.5",
+                "version_normalized": "3.7.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpfactory/maximum-products-per-user-for-woocommerce-pro/wpfactory-maximum-products-per-user-for-woocommerce-pro-3.7.5.zip",
+                    "shasum": "d1e1525b5ab00dbc4119c0da028dcdba0a668b26"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}

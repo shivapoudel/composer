@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "wpallimport/wp-all-import-pro": [
+            {
+                "name": "wpallimport/wp-all-import-pro",
+                "version": "4.8.5",
+                "version_normalized": "4.8.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://composer.eachperson.com/dist/wpallimport/wp-all-import-pro/wpallimport-wp-all-import-pro-4.8.5.zip",
+                    "shasum": "087ad6b9cb43164fe04e406e55f1442706eba96c"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist"
+            }
+        ]
+    }
+}
