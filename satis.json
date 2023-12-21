@@ -26,11 +26,11 @@
         {
             "type": "package",
             "package": {
-                "name": "thembay-theme/besa",
+                "name": "thembay/besa",
                 "version": "2.2.19",
                 "type": "wordpress-theme",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/themes/besa/besa-2.2.19.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/thembay/besa-2.2.19.zip",
                     "type": "zip"
                 }
             }
@@ -38,7 +38,7 @@
         {
             "type": "package",
             "package": {
-                "name": "thembay-plugin/tbay-elementor",
+                "name": "thembay/tbay-elementor",
                 "version": "1.1.11",
                 "type": "wordpress-plugin",
                 "dist": {
@@ -66,7 +66,7 @@
                 "version": "6.2.4",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/advanced-custom-fields-pro/advanced-custom-fields-pro-6.2.4.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/wpengine/advanced-custom-fields-pro-6.2.4.zip",
                     "type": "zip"
                 }
             }
@@ -74,11 +74,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/ajax-search-for-woocommerce-premium",
+                "name": "fibosearch/ajax-search-for-woocommerce-premium",
                 "version": "1.26.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/ajax-search-for-woocommerce-premium/ajax-search-for-woocommerce-premium-1.26.1.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/fibosearch/ajax-search-for-woocommerce-premium-1.26.1.zip",
                     "type": "zip"
                 }
             }
@@ -90,7 +90,7 @@
                 "version": "3.9.6",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/dokan-pro/dokan-business-3.9.6.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/wedevs/dokan-business-3.9.6.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -116,11 +116,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/mabel-wheel-of-fortune",
+                "name": "studiowombat/mabel-wheel-of-fortune",
                 "version": "4.0.8",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/mabel-wheel-of-fortune/mabel-wheel-of-fortune-4.0.8.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/studiowombat/mabel-wheel-of-fortune-4.0.8.zip",
                     "type": "zip"
                 }
             }
@@ -128,11 +128,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/maximum-products-per-user-for-woocommerce-pro",
+                "name": "wpfactory/maximum-products-per-user-for-woocommerce-pro",
                 "version": "3.7.5",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/maximum-products-per-user-for-woocommerce-pro/maximum-products-per-user-for-woocommerce-pro-3.7.5.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/wpfactory/maximum-products-per-user-for-woocommerce-pro-3.7.5.zip",
                     "type": "zip"
                 }
             }
@@ -140,11 +140,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/woocommerce-product-filters",
+                "name": "woocommerce/woocommerce-product-filters",
                 "version": "1.4.12",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-product-filters/woocommerce-product-filters-1.4.12.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/woocommerce/woocommerce-product-filters-1.4.12.zip",
                     "type": "zip"
                 }
             }
@@ -152,11 +152,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/woocommerce-referral-system",
+                "name": "woocommerce/woocommerce-referral-system",
                 "version": "1.3.10.2",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-referral-system/woocommerce-referral-system-1.3.10.2.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/woocommerce/woocommerce-referral-system-1.3.10.2.zip",
                     "type": "zip"
                 }
             }
@@ -164,11 +164,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/woocommerce-subscriptions",
+                "name": "woocommerce/woocommerce-subscriptions",
                 "version": "5.5.0",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-subscriptions/woocommerce-subscriptions-5.5.0.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/woocommerce/woocommerce-subscriptions-5.5.0.zip",
                     "type": "zip"
                 }
             }
@@ -176,11 +176,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/woo-variation-swatches-pro",
+                "name": "getwooplugins/woo-variation-swatches-pro",
                 "version": "2.0.29",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woo-variation-swatches-pro/woo-variation-swatches-pro-2.0.29.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/getwooplugins/woo-variation-swatches-pro-2.0.29.zip",
                     "type": "zip"
                 }
             }
@@ -188,11 +188,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/woo-wallet-importer",
+                "name": "standalonetech/woo-wallet-importer",
                 "version": "1.1.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woo-wallet-importer/woo-wallet-importer-1.1.1.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/standalonetech/woo-wallet-importer-1.1.1.zip",
                     "type": "zip"
                 }
             }
@@ -200,11 +200,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/wordpress-store-locator",
+                "name": "welaunch/wordpress-store-locator",
                 "version": "2.1.12",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wordpress-store-locator/wordpress-store-locator-2.1.12.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/welaunch/wordpress-store-locator-2.1.12.zip",
                     "type": "zip"
                 }
             }
@@ -212,11 +212,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/wpai-woocommerce-add-on",
+                "name": "wpallimport/wpai-woocommerce-add-on",
                 "version": "4.0.0",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wpai-woocommerce-add-on/wpai-woocommerce-add-on-4.0.0.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/wpallimport/wpai-woocommerce-add-on-4.0.0.zip",
                     "type": "zip"
                 }
             }
@@ -224,11 +224,11 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/wp-all-import-pro",
+                "name": "wpallimport/wp-all-import-pro",
                 "version": "4.8.5",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wp-all-import-pro/wp-all-import-pro-4.8.5.zip",
+                    "url": "https://d29oict0egpw8n.cloudfront.net/wpallimport/wp-all-import-pro-4.8.5.zip",
                     "type": "zip"
                 }
             }
