@@ -116,6 +116,21 @@
         {
             "type": "package",
             "package": {
+                "name": "elementor/elementor-pro",
+                "version": "3.18.2",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.2.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "wpackagist-plugin/elementor": "^3.18"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "studiowombat/mabel-wheel-of-fortune",
                 "version": "4.0.8",
                 "type": "wordpress-plugin",
