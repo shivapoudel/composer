@@ -50,7 +50,7 @@
         {
             "type": "package",
             "package": {
-                "name": "envato-plugin/envato-market",
+                "name": "envato/envato-market",
                 "version": "2.0.11",
                 "type": "wordpress-plugin",
                 "dist": {
@@ -86,7 +86,7 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-plugin/dokan-pro",
+                "name": "wedevs/dokan-pro",
                 "version": "3.9.6",
                 "type": "wordpress-plugin",
                 "dist": {
@@ -104,11 +104,6 @@
                 "dist": {
                     "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.1.zip",
                     "type": "zip"
-                },
-                "source": {
-                    "url": "https://github.com/elementor/elementor",
-                    "type": "git",
-                    "reference": "3.18.1"
                 },
                 "require": {
                     "wpackagist-plugin/elementor": "^3.18"
